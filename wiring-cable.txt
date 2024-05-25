@@ -2,9 +2,5 @@ TRIG_PIN 33    // Pin trigger ultrasonik terhubung ke pin 33 pada ESP32
 ECHO_PIN 32    // Pin echo ultrasonik terhubung ke pin 32 pada ESP32
 SERVO_PIN 14   // Pin servo terhubung ke pin 14 pada ESP32
 DHT_PIN 25     // Pin data DHT11 terhubung ke pin 25 pada ESP32
-LED_PIN 26     // Pin LED terhubung ke pin 26 pada ESP32
+RELAY_PIN 26   // Pin relay terhubung ke pin 26 pada ESP32
 
-RTC_DS3231
-VCC            // 3V3
-SDA            // Pin D21
-SCL 	       // Pin D22
